@@ -1,0 +1,37 @@
+.btn-timer {
+    color: rgb(255, 255, 255);
+    background-color: #202415;
+    border-color: #86898b;
+  }
+  
+  .btn-timer:hover {
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+  }
+  
+  .btn-timer:focus, .btn-timer.focus {
+    box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
+  }
+  
+  .btn-timer.disabled, .btn-timer:disabled {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+  }
+  
+  .btn-timer:not(:disabled):not(.disabled):active, .btn-timer:not(:disabled):not(.disabled).active,
+  .show > .btn-tim.dropdown-toggle.dropdown-toggle {
+    color: #fff;
+    background-color: #1d2124;
+    border-color: #b0b2b4;
+  }
+  
+  .btn-timer:not(:disabled):not(.disabled):active:focus, .btn-timer:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-timer.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(172, 175, 179, 0.5);
+  }
+
+  .m-timer {
+    margin: 0.1rem !important;
+  }
