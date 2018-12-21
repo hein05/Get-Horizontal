@@ -16,17 +16,15 @@
   
   **_addedSytle.css_**
   - to implement some of the Menu buttons' style.
+  - for custom button styling
 
-  **_script.js_**
-  - original scripts (provided by Professor). I modified some of functions to better suit my game logic.
+  **_script.js (provided by Professor)_**
+  - original scripts . I modified some of functions to better suit my game logic.
   - handles basic chip clicks and menu clicks.
 
   **_Action.js_**
-  - handles all selecting and deselecting
-
-  **_AddedStyles.css_**
-  - for custom button styling
-
+  - handles all selecting and deselecting UI.
+  
   **_animation.js_**
   - for animating button movements.(actual codes for this file are not uploaded to git).
 
