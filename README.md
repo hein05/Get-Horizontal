@@ -11,13 +11,15 @@
 
 ## Files
 
-  index.HTML/style.css (provided by Professor).
+  **_index.HTML/style.css (provided by Professor)_**
+  - handle style, grid and basic button shapes, and menu.
   
   **_addedSytle.css_**
   - to implement some of the Menu buttons' style.
 
   **_script.js_**
   - original scripts (provided by Professor). I modified some of functions to better suit my game logic.
+  - handles basic chip clicks and menu clicks.
 
   **_Action.js_**
   - handles all selecting and deselecting
