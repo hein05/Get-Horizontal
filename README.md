@@ -28,7 +28,7 @@
   - for custom button styling
 
   **_animation.js_**
-  - for animating button movements.
+  - for animating button movements.(actual codes for this file are not uploaded to git).
 
   **_logic.js_**
   - handles game restart, finish, etc.
