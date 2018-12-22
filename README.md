@@ -26,7 +26,7 @@
   - handles all selecting and deselecting UI.
   
   **_animation.js_**
-  - for animating button movements.(**_Only partial codes are uploaded to git_**).
+  - for animating chips movements.(**_Only partial codes are uploaded to git_**).
 
   **_logic.js_**
   - handles game restart, finish, etc.
